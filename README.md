@@ -1,2 +1,3 @@
 # spring-mediation
-A mediation layer built with Spring
+
+A mediation layer built with Spring Web toolkit
